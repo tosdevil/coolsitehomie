@@ -4,8 +4,14 @@ let galeryfill = document.querySelector('.gallery')
 console.log(galeryfill);
 
 let releases_list = [
+	
 	{
-		
+		performer: 'Lunder - Вальс',
+		desc: 'Нашумевший своими переносами тречик наконец выходит!',
+		link: 'https://onerpm.link/501004920012',
+		imgurl: 'https://cloudinary-cdn.ffm.to/s--8RP8J0_1--/f_webp/https%3A%2F%2Fimagestore.ffm.to%2Flink%2Fc5986c2f1ffde06c00f01d2c163daf85.png'
+	},
+	{
 		performer: 'Isotwelve - Плёнка',
 		desc: "Довольно простая и мелодичная песня, родившаяся спонтанно. Звуки синтезаторов, приятная драм-партия и воздушный вокал. Это - Плёнка, часть дебютного альбома Isotwelve 'Memoria'.",
 		link: 'https://band.link/kEaH6',
@@ -13,24 +19,10 @@ let releases_list = [
 	},
 	{
 		
-		performer: 'Lunder - Вальс',
-		desc: 'Нашумевший своими переносами тречик наконец выходит!',
-		link: 'https://onerpm.link/501004920012',
-		imgurl: 'https://cloudinary-cdn.ffm.to/s--8RP8J0_1--/f_webp/https%3A%2F%2Fimagestore.ffm.to%2Flink%2Fc5986c2f1ffde06c00f01d2c163daf85.png'
-	},
-	{
-		
-		performer: 'Lunder - Вальс',
-		desc: 'Нашумевший своими переносами тречик наконец выходит!',
-		link: 'https://onerpm.link/501004920012',
-		imgurl: 'https://cloudinary-cdn.ffm.to/s--8RP8J0_1--/f_webp/https%3A%2F%2Fimagestore.ffm.to%2Flink%2Fc5986c2f1ffde06c00f01d2c163daf85.png'
-	},
-	{
-		
-		performer: 'фывафва - Ваафвалфьвпсфв',
-		desc: 'Нашумевший своими переносами тречик наконец выходит!',
-		link: 'https://onerpm.link/501004920012',
-		imgurl: 'https://cloudinary-cdn.ffm.to/s--8RP8J0_1--/f_webp/https%3A%2F%2Fimagestore.ffm.to%2Flink%2Fc5986c2f1ffde06c00f01d2c163daf85.png'
+		performer: 'Isotwelve - Wake Up',
+		desc: 'Экспериментальный релиз, который предшествует грядущему альбому исполнителя. Обволакивающий уши эмбиент, который сменяется на спокойную, но, в то же время, напряженную композицию, разбавленную строчками. ',
+		link: 'https://band.link/bIf6S',
+		imgurl: 'https://cloudinary-cdn.ffm.to/s--R5pXop0V--/f_webp/https%3A%2F%2Fimagestore.ffm.to%2Flink%2Feaaf4d740865b7c11f39846b173423eb.jpeg'
 	}
 ];
 
