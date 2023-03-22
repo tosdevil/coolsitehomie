@@ -6,6 +6,12 @@ console.log(galeryfill);
 let releases_list = [
 	
 	{
+		performer: 'здарова',
+		desc: 'ну а дальше я хз че писать подписывайтесь на пабличек хе',
+		link: 'https://vk.com/ridingthecoyote',
+		imgurl: 'https://sun9-67.userapi.com/impg/aauRI2VnLj5VhIu3T0MgHyQ8HSi7kMYO8Mhr_A/pBA-k8RpfpU.jpg?size=607x587&quality=95&sign=3c21afdcbb0e4ad06d635ded585fa21c&type=album'
+	},
+	{
 		performer: 'Lunder - Вальс',
 		desc: 'Нашумевший своими переносами тречик наконец выходит!',
 		link: 'https://onerpm.link/501004920012',
