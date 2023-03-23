@@ -6,11 +6,11 @@ let galeryfill = document.querySelector('.gallery')
 let releases_list = [
 	
 	{
-		performer: 'здарова',
-		desc: 'ну а дальше я хз че писать подписывайтесь на пабличек хе',
+		performer: 'David Bowie - "Heroes"',
+		desc: '«Heroes» — двенадцатый студийный альбом британского музыканта Дэвида Боуи, изданный 14 октября 1977 года на лейбле RCA Records; второй из так называемой «Берлинской трилогии» (альбомы Low, «Heroes», Lodger), записанной в сотрудничестве с Брайаном Ино.',
 		link: 'https://vk.com/ridingthecoyote',
-		date: '20.09.2020',
-		imgurl: 'https://sun9-67.userapi.com/impg/aauRI2VnLj5VhIu3T0MgHyQ8HSi7kMYO8Mhr_A/pBA-k8RpfpU.jpg?size=607x587&quality=95&sign=3c21afdcbb0e4ad06d635ded585fa21c&type=album'
+		date: '14.10.1977',
+		imgurl: 'https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:David_Bowie_%27%27Heroes%27%27_cover.jpg'
 	},
 	{
 		performer: 'Lunder - Вальс',
