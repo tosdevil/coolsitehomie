@@ -141,7 +141,7 @@ a {
 }
 
 .data_p {
-	text-align: right;	
+	opacity: 0.3;	
 }
 
 @media screen and (max-width: 546px) {
