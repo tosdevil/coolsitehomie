@@ -1,4 +1,3 @@
-
 let galeryfill = document.querySelector('.gallery')
 
 // console.log(galeryfill);
@@ -7,10 +6,10 @@ let releases_list = [
 	
 	{
 		performer: 'David Bowie - "Heroes"',
-		desc: '«Heroes» — двенадцатый студийный альбом британского музыканта Дэвида Боуи, изданный 14 октября 1977 года на лейбле RCA Records; второй из так называемой «Берлинской трилогии» (альбомы Low, «Heroes», Lodger), записанной в сотрудничестве с Брайаном Ино.',
+		desc: '«Heroes» — культовый альбом Дэвида Боуи из берлинской трилогии, записанный совместно с Брайаном Ино.',
 		link: 'https://vk.com/ridingthecoyote',
 		date: '14.10.1977',
-		imgurl: 'https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:David_Bowie_%27%27Heroes%27%27_cover.jpg'
+		imgurl: 'https://upload.wikimedia.org/wikipedia/ru/7/73/David_Bowie_%27%27Heroes%27%27_cover.jpg'
 	},
 	{
 		performer: 'Lunder - Вальс',
