@@ -1,7 +1,7 @@
 
 let galeryfill = document.querySelector('.gallery')
 
-console.log(galeryfill);
+// console.log(galeryfill);
 
 let releases_list = [
 	
@@ -9,18 +9,21 @@ let releases_list = [
 		performer: 'здарова',
 		desc: 'ну а дальше я хз че писать подписывайтесь на пабличек хе',
 		link: 'https://vk.com/ridingthecoyote',
+		date: '20.09.2020',
 		imgurl: 'https://sun9-67.userapi.com/impg/aauRI2VnLj5VhIu3T0MgHyQ8HSi7kMYO8Mhr_A/pBA-k8RpfpU.jpg?size=607x587&quality=95&sign=3c21afdcbb0e4ad06d635ded585fa21c&type=album'
 	},
 	{
 		performer: 'Lunder - Вальс',
 		desc: 'Нашумевший своими переносами тречик наконец выходит!',
 		link: 'https://onerpm.link/501004920012',
+		date: '24.03.2023',
 		imgurl: 'https://cloudinary-cdn.ffm.to/s--8RP8J0_1--/f_webp/https%3A%2F%2Fimagestore.ffm.to%2Flink%2Fc5986c2f1ffde06c00f01d2c163daf85.png'
 	},
 	{
 		performer: 'Isotwelve - Плёнка',
 		desc: "Довольно простая и мелодичная песня, родившаяся спонтанно. Звуки синтезаторов, приятная драм-партия и воздушный вокал. Это - Плёнка, часть дебютного альбома Isotwelve 'Memoria'.",
 		link: 'https://band.link/kEaH6',
+		date: '03.03.2023',
 		imgurl: 'https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/79/84/8d/79848df9-ebdc-47a1-9fe2-ee15b8ea7efc/0.jpg/500x500bb.jpg'
 	},
 	{
@@ -28,6 +31,7 @@ let releases_list = [
 		performer: 'Isotwelve - Wake Up',
 		desc: 'Экспериментальный релиз, который предшествует грядущему альбому исполнителя. Обволакивающий уши эмбиент, который сменяется на спокойную, но, в то же время, напряженную композицию, разбавленную строчками. ',
 		link: 'https://band.link/bIf6S',
+		date: '03.02.2023',
 		imgurl: 'https://cloudinary-cdn.ffm.to/s--R5pXop0V--/f_webp/https%3A%2F%2Fimagestore.ffm.to%2Flink%2Feaaf4d740865b7c11f39846b173423eb.jpeg'
 	}
 ];
