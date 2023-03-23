@@ -140,6 +140,10 @@ a {
     color: gray;
 }
 
+.data_p {
+	text-align: right;	
+}
+
 @media screen and (max-width: 546px) {
 	:root {
     --index: calc(1vw + 1vh);
