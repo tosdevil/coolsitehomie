@@ -173,6 +173,12 @@ a {
     --side-big: 20;
     --transition: .75s cubic-bezier(.25, 1, .5, 1)
 }
+	
+	.social_logos 
+	{
+		width: 25px;
+		height: 25px;
+	}
 #mainlogo_img {
 	width: 180vw;
 }
