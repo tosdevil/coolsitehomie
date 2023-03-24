@@ -112,11 +112,14 @@ const fill_releases = (items,block) => {
                 <div class="frame__content">
                     <h3>about us</h3>
                     <p>Смысл жизни не только в передаче наших генов. Мы можем оставить после себя намного больше, чем ДНК посредством языка, музыки, литературы и кино: всё то, что мы видим, слышим и чувствуем. Радость, печаль и куча эмоции - вот что мы можем сохранить для будущих поколений.</p>
-                    <p>Контакты:</p>
-                    <a href="https://instagram.com/san_smislom">Instagram</a>
-                    <a href="https://t.me/isotwelve">Telegram</a>
-                    <a href="https://vk.com/ridingthecoyote">VK</a>
-                </div>
+                    <div id = "social_block">
+										<a href="https://instagram.com/san_smislom"><img src = "https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" class = 'social_logos'></a>
+                    
+										<a href = "https://t.me/isotwelve"><img src = "https://static-00.iconduck.com/assets.00/telegram-icon-512x512-z8lb0qsx.png" class = 'social_logos'></a>
+                    
+										<a href = "https://vk.com/isotwelve"><img src = "https://cdn.freebiesupply.com/images/large/2x/vk-logo-white.png" class = 'social_logos'></a>
+										</div>
+								</div>
             </div>
 
             <div class = "frame">
