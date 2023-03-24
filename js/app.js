@@ -41,7 +41,7 @@ const left_frames_fill = (release) => {
     <div class="frame__content text-left">
       <h3>${release.performer}</h3>
       <p>${release.desc}</p>
-      <p class = "data_p">${release.date}</p>
+      <p class = "data_p">Дата релиза: ${release.date}</p>
       <a style="display:inline" href="${release.link}">Слушать</a>
   	</div>
   </div>
@@ -62,7 +62,7 @@ const right_frames_fill = (release) => {
     <div class="frame__content text-right">
       <h3>${release.performer}</h3>
       <p>${release.desc}</p>
-      <p class = "data_p">${release.date}</p>
+      <p class = "data_p">Дата релиза: ${release.date}</p>
       <a style="display:inline" href="${release.link}">Слушать</a>
   	</div>
   </div>
