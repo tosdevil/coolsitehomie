@@ -5,11 +5,11 @@ let galeryfill = document.querySelector('.gallery')
 let releases_list = [
 	
 	{
-		performer: 'David Bowie - "Heroes"',
-		desc: '«Heroes» — культовый альбом Дэвида Боуи из берлинской трилогии, записанный совместно с Брайаном Ино.',
-		link: 'https://vk.com/ridingthecoyote',
-		date: '14.10.1977',
-		imgurl: 'https://upload.wikimedia.org/wikipedia/ru/7/73/David_Bowie_%27%27Heroes%27%27_cover.jpg'
+		performer: 'Isotwelve - Кино',
+		desc: 'no data yet',
+		link: 'https://vk.com/isotwelve',
+		date: '??.04.2023',
+		imgurl: 'https://vk.com/photo-192837192_457239043'
 	},
 	{
 		performer: 'Lunder - Вальс',
