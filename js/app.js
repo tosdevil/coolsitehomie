@@ -9,7 +9,7 @@ let releases_list = [
 		desc: 'no data yet',
 		link: 'https://vk.com/isotwelve',
 		date: '??.04.2023',
-		imgurl: 'https://vk.com/photo-192837192_457239043'
+		imgurl: 'https://sun9-47.userapi.com/impg/WtTiPUyMdgFT2oS7BnMhaW2JeRV-_pDZAKtDMA/jEh_qHODi-c.jpg?size=604x603&quality=95&sign=b03241fa5ce41f12a4fa2f839deb368a&type=album'
 	},
 	{
 		performer: 'Lunder - Вальс',
