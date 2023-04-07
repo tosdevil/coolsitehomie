@@ -5,11 +5,11 @@ let galeryfill = document.querySelector('.gallery')
 let releases_list = [
 	
 	{
-		performer: 'Isotwelve - Кино',
-		desc: 'no data yet',
-		link: 'https://vk.com/isotwelve',
-		date: '??.04.2023',
-		imgurl: 'https://sun9-47.userapi.com/impg/WtTiPUyMdgFT2oS7BnMhaW2JeRV-_pDZAKtDMA/jEh_qHODi-c.jpg?size=604x603&quality=95&sign=b03241fa5ce41f12a4fa2f839deb368a&type=album'
+		performer: 'Isotwelve - Ночь Субботы',
+		desc: '???',
+		link: 'https://band.link/5fBgg',
+		date: '16.05.2023',
+		imgurl: 'https://music-bandlink.s3.yandex.net/img/bandlinks/5fBgg_2bxzTxQ0_370x370.jpeg'
 	},
 	{
 		performer: 'Lunder - Вальс',
