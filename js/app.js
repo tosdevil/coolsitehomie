@@ -6,7 +6,9 @@ let releases_list = [
 	
 	{
 		performer: 'Isotwelve - Ночь Субботы',
-		desc: '???',
+		desc: 'добрая композиция о теплых вечерах в компании хороших друзей, когда вы можете ни о чем не думать и наслаждаться моментом
+
+«ночь субботы» - первый сингл с грядущего альбома, который вы в скором времени услышите',
 		link: 'https://band.link/5fBgg',
 		date: '16.05.2023',
 		imgurl: 'https://music-bandlink.s3.yandex.net/img/bandlinks/5fBgg_2bxzTxQ0_370x370.jpeg'
