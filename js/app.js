@@ -4,6 +4,12 @@ let galeryfill = document.querySelector('.gallery')
 
 let releases_list = [
 	
+ {
+  performer: 'Isotwelve - Посты',
+  desc: 'новая композиция, в которой автор размышляет над метаморфозом личности. всё это смешано с приятной и атмосферной музыкой. «посты» - второй сингл с грядущего альбома, который вы в скором времени услышите.',
+  link:'https://band.link/jDrpq',
+  date: '14.07.2023', imgurl:'https://music-bandlink.s3.yandex.net/img/bandlinks/jDrpq_a8uaqrwS_370x370.jpeg'
+ },
 	{
 		performer: 'Isotwelve - Ночь Субботы',
 		desc: 'добрая композиция о теплых вечерах в компании хороших друзей, когда вы можете ни о чем не думать и наслаждаться моментом',
